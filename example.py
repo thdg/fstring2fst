@@ -1,4 +1,4 @@
-from fstring2fst import create_fst, generate
+from fstring2fst.fstring2fst import create_fst, generate
 
 VARIABLES = {
     "digit1": ["a", "x"],
