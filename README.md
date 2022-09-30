@@ -9,6 +9,11 @@ The produced FST can be used as the grammar (G.fst) for the Kaldi toolkit to cre
 Another useful purpose for this tool is to generate random data, based on the desired rules, for an infinite or near infinite set of possibilities.
 After including the rules for your grammar the script can produce any number of random samples from the defined language.
 
+Requiremens
+---
+
+To install all requirements successfully use python 3.5, 3.6 or 3.7.
+
 Example use case
 ---
 
